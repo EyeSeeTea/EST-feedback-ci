@@ -1,2 +1,3 @@
 # feedback-ci
 - Built EyeSeeTea/metadata-synchronization Merge 277cf95e0081264299a57033f3cac8345be103f1 into 83f1bbfd8df484159ae2819aecfad68362452ffb against branch feature/mochawesome on Tue Mar 17 12:25:15 UTC 2020. [Report](https://eyeseetea.github.io/feedback-ci/EyeSeeTea/metadata-synchronization/pr/452/435b11ebd04fa21844304b89e7a00f5746568e18)
+- Built EyeSeeTea/metadata-synchronization Merge b4972d183dc1f8369de5d11b972bdb70b6286df9 into 21a45e6579635802d8fb672eb6e9330567b69e37 against branch feature/mochawesome on Tue Mar 17 12:57:06 UTC 2020. [Report](https://eyeseetea.github.io/feedback-ci/EyeSeeTea/metadata-synchronization/pr/452/b4b6b9243e228692b7feff553e995aa4d27d7d1f)
